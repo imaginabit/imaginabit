@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👯 I’m looking to collaborate on proyects
+- 🔭 I’m currently looking for a job, [check my resume](https://github.com/imaginabit/markdown-cv/blob/gh-pages/index.md)
+
+
+
+
 <!--
 **imaginabit/imaginabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
