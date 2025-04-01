@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on proyects
-- 🔭 I’m currently looking for a job, [check my resume](https://github.com/imaginabit/markdown-cv/blob/gh-pages/index.md)
-
-
+- 👯 I’m looking to collaborate on projects.
+- 🔭 I’m currently looking for a job;  [check my resume.](https://github.com/imaginabit/markdown-cv/blob/gh-pages/index-en.md)
 
 
 <!--
